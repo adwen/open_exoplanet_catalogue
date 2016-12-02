@@ -13,7 +13,7 @@
 		<name>HR 4697</name>
 		<name>BD+18 2592</name>
 		<name>2MASS J12204305+1747341</name>
-		<mass errorminus="0.3" errorplus="0.3">2.7</mass>
+		<mass errorminus="0.3" errorplus="0.6">2.7</mass>
 		<radius errorminus="0.452" errorplus="2">19</radius>
 		<magV>4.74</magV>
 		<magB errorminus="0.02" errorplus="0.02">5.74</magB>
