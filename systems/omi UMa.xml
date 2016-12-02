@@ -18,7 +18,7 @@
 		<name>HR 3323</name>
 		<name>BD+61 1054</name>
 		<name>2MASS J08301592+6043056</name>
-		<mass errorminus="0.7" errorplus="0.7">3.09</mass>
+		<mass errorminus="0.7" errorplus="0.07">3.09</mass>
 		<radius errorminus="0.9" errorplus="1.0">14.1</radius>
 		<temperature errorminus="10" errorplus="10">5242</temperature>
 		<magV>3.35</magV>
@@ -46,7 +46,7 @@
 			<periastrontime errorminus="170" errorplus="170">2453400</periastrontime>
 			<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/02</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>
