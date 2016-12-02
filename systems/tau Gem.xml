@@ -2,7 +2,7 @@
 	<name>tau Gem</name>
 	<rightascension>07 11 08.37042</rightascension>
 	<declination>+30 14 42.5831</declination>
-	<distance errorminus="2.4" errorplus="7.62">98.4</distance>
+	<distance errorminus="2.4" errorplus="2.5">98.4</distance>
 	<binary>
 		<separation unit="arcsec">1.90</separation>
 		<separation unit="AU">187</separation>
@@ -35,7 +35,7 @@
 			<name>2MASS J07110836+3014426</name>
 			<name>WDS J07111+3015 A</name>
 			<temperature errorminus="25" errorplus="25">4388</temperature>
-			<magV>4.41</magV>
+			<magV>4.420</magV>
 			<magR>3.45</magR>
 			<magI>2.82</magI>
 			<magB>5.685</magB>
@@ -57,8 +57,8 @@
 				<periastrontime errorminus="14.8" errorplus="14.8">2453270.7</periastrontime>
 				<semimajoraxis>1.17</semimajoraxis>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>16/12/01</lastupdate>
-				<discoveryyear>2013</discoveryyear>
+				<lastupdate>16/12/02</lastupdate>
+				<discoveryyear>2004</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>

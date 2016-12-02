@@ -25,7 +25,7 @@
 			<name>WDS J13473+1727 A</name>
 			<name>HR 5185</name>
 			<mass errorminus="0.25" errorplus="0.25">1.39</mass>
-			<radius errorminus="0.08" errorplus="0.08">1.42</radius>
+			<radius errorminus="0.027" errorplus="0.027">1.46</radius>
 			<magV>4.5</magV>
 			<magB>4.98</magB>
 			<magR>4.2</magR>
@@ -47,8 +47,8 @@
 				<name>HR 5185 b</name>
 				<name>tau Boo b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.17" errorplus="0.17">6.13</mass>
-				<period errorminus="0.0000069" errorplus="0.0000069">3.3124568</period>
+				<mass errorminus="0.552" errorplus="0.04000">6.13</mass>
+				<period errorminus="3.12595e-05" errorplus="0.0000069">3.3124568</period>
 				<semimajoraxis errorminus="0.003" errorplus="0.003">0.049</semimajoraxis>
 				<eccentricity errorminus="0.006" errorplus="0.006">0.011</eccentricity>
 				<inclination errorminus="1.5" errorplus="1.5">44.5</inclination>
@@ -57,7 +57,7 @@
 				<description>The planet Tau Boötis b was one of the first exoplanets to be discovered back in 1996. In 2012, astronomers have detected the faint glow that is emitted from the planet, reliably probing the structure of the atmosphere of Tau Bootis b and deducing its mass accurately for the first time.</description>
 				<temperature>2000</temperature>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>14/03/04</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>1996</discoveryyear>
 				<image>tauboo</image>
 				<imagedescription>This artist's impression shows the exoplanet Tau Bootis b. 
